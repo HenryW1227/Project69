@@ -1,0 +1,9 @@
+.edge {
+    border: 1px solid lightgrey
+}
+.edge img {
+    width: 100%;
+}
+.edge p {
+    margin: 20px;
+}
